@@ -1,0 +1,501 @@
+code,ecs,claim_count,claims_found,claim_status
+37600198776,0.625,5,this product is natural|this product is healthy|this product is environmentally friendly|this product is organic|this product is sustainable,ok
+11110826497,0.5,4,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is environmentally friendly,ok
+23923320017,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+33776100308,0.5,4,this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+27064571031,1.0,8,this product is environmentally friendly|this product is organic|this product is pure and clean|this product contains no artificial ingredients|this product is natural|this product is healthy|this product is sustainable|this product contains no preservatives,ok
+16291442375,1.0,8,this product is organic|this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product is healthy|this product contains no preservatives,ok
+35971802025,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is natural|this product is healthy,ok
+39047001404,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+11150046251,0.0,0,,ok
+13000656320,0.375,3,this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+30684020537,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product contains no artificial ingredients,ok
+21140181275,0.0,0,,ok
+11150040211,0.75,6,this product is organic|this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is pure and clean,ok
+20728709030,0.625,5,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable,ok
+72220008586,0.75,6,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product is healthy,ok
+11150982641,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product contains no artificial ingredients,ok
+8005125193,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+33400721756,0.625,5,this product is healthy|this product is sustainable|this product is environmentally friendly|this product is natural|this product is organic,ok
+33776100889,0.875,7,this product is natural|this product is environmentally friendly|this product is healthy|this product is pure and clean|this product is organic|this product is sustainable|this product contains no artificial ingredients,ok
+41415342439,0.75,6,this product is environmentally friendly|this product is sustainable|this product is organic|this product is natural|this product is healthy|this product is pure and clean,ok
+36632018779,0.0,0,,ok
+36800051140,0.125,1,this product is natural,ok
+24182011586,0.75,6,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy|this product is pure and clean,ok
+41000022975,0.0,0,,ok
+35742221116,0.625,5,this product is pure and clean|this product is environmentally friendly|this product is natural|this product is healthy|this product is sustainable,ok
+36800093072,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11535501337,0.375,3,this product is organic|this product is sustainable|this product is environmentally friendly,ok
+41000344060,0.0,0,,ok
+41190049325,0.875,7,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+23882197637,1.0,8,this product is environmentally friendly|this product is healthy|this product is natural|this product is pure and clean|this product contains no artificial ingredients|this product contains no preservatives|this product is sustainable|this product is organic,ok
+22852417102,0.375,3,this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+35826094582,0.0,0,,ok
+25317656009,0.125,1,this product is organic,ok
+39215,0.875,7,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients|this product is healthy,ok
+41244006434,1.0,8,this product contains no artificial ingredients|this product is organic|this product is natural|this product is pure and clean|this product is healthy|this product is environmentally friendly|this product is sustainable|this product contains no preservatives,ok
+39047018136,0.5,4,this product is sustainable|this product is natural|this product is pure and clean|this product is environmentally friendly,ok
+41420477294,0.375,3,this product is organic|this product is environmentally friendly|this product is sustainable,ok
+12511305000,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean,ok
+24182021660,0.625,5,this product is organic|this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+11150511193,0.875,7,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients,ok
+41190046867,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is pure and clean,ok
+11150950077,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11150980593,0.25,2,this product is healthy|this product is environmentally friendly,ok
+25317532006,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+25317005913,0.0,0,,ok
+41497096275,0.875,7,this product contains no artificial ingredients|this product is natural|this product is organic|this product is pure and clean|this product is sustainable|this product contains no preservatives|this product is environmentally friendly,ok
+11213523644,1.0,8,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is pure and clean|this product is environmentally friendly|this product is sustainable|this product contains no preservatives|this product is organic,ok
+22014110407,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is natural|this product is organic|this product is sustainable|this product is pure and clean|this product is healthy|this product contains no preservatives,ok
+13609020546,0.75,6,this product is sustainable|this product is organic|this product is environmentally friendly|this product is healthy|this product is natural|this product is pure and clean,ok
+20662005434,0.625,5,this product is natural|this product is healthy|this product is pure and clean|this product is environmentally friendly|this product is sustainable,ok
+41000273643,0.0,0,,ok
+24000367024,0.0,0,,ok
+20662003942,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+13764027312,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+21908476230,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product contains no artificial ingredients|this product is pure and clean,ok
+13130006989,0.0,0,,ok
+29737103396,0.5,4,this product is healthy|this product is sustainable|this product is environmentally friendly|this product is organic,ok
+15400196901,1.0,8,this product is natural|this product is organic|this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no preservatives,ok
+39217044224,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+16000409972,0.0,0,,ok
+36800422230,0.75,6,this product is organic|this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is pure and clean,ok
+30223042051,0.375,3,this product is environmentally friendly|this product is sustainable|this product is organic,ok
+11213033792,0.0,0,,ok
+41270025072,0.125,1,this product is environmentally friendly,ok
+609900114,0.375,3,this product is natural|this product is healthy|this product is environmentally friendly,ok
+16073123454,0.75,6,this product is environmentally friendly|this product is healthy|this product is natural|this product is organic|this product is sustainable|this product is pure and clean,ok
+12000012785,0.0,0,,ok
+20526012288,0.75,6,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product is healthy,ok
+11150074025,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is pure and clean|this product is healthy|this product is sustainable,ok
+36800389663,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+41190012695,0.125,1,this product is environmentally friendly,ok
+36731135513,1.0,8,this product contains no artificial ingredients|this product is natural|this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable|this product contains no preservatives|this product is pure and clean,ok
+23545211229,0.375,3,this product is environmentally friendly|this product is natural|this product is healthy,ok
+23923320116,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+39047001077,0.75,6,this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is healthy|this product is organic|this product is sustainable,ok
+11150998420,0.0,0,,ok
+36800420397,0.875,7,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy|this product is pure and clean|this product contains no artificial ingredients,ok
+41318300512,1.0,8,this product contains no artificial ingredients|this product is natural|this product is healthy|this product is organic|this product is environmentally friendly|this product is pure and clean|this product is sustainable|this product contains no preservatives,ok
+41000214042,0.0,0,,ok
+41000022593,0.0,0,,ok
+21000057122,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+39978009906,1.0,8,this product is natural|this product is organic|this product is environmentally friendly|this product is sustainable|this product contains no artificial ingredients|this product is healthy|this product is pure and clean|this product contains no preservatives,ok
+30223006343,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is pure and clean,ok
+28190007814,0.5,4,this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product contains no preservatives,ok
+24335160062,0.875,7,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients,ok
+21000005208,0.125,1,this product is natural,ok
+21908743295,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+12511801335,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is natural|this product is healthy,ok
+13413796293,0.5,4,this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+41000321764,0.0,0,,ok
+22506002005,0.875,7,this product contains no artificial ingredients|this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product is healthy,ok
+24182029505,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients|this product is healthy,ok
+41420108136,0.5,4,this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy,ok
+34538837654,0.625,5,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy,ok
+120623,0.0,0,,ok
+127135,0.25,2,this product is environmentally friendly|this product is healthy,ok
+41190042579,0.75,6,this product is healthy|this product is natural|this product is organic|this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable,ok
+36800422117,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+28190001416,0.375,3,this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+12000012754,0.0,0,,ok
+41220997251,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11150479516,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is healthy|this product is sustainable,ok
+23923200043,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+36800107922,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+36800405455,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+36800049734,0.875,7,this product is environmentally friendly|this product is natural|this product is sustainable|this product is pure and clean|this product is organic|this product is healthy|this product contains no artificial ingredients,ok
+12511446529,0.875,7,this product is organic|this product is environmentally friendly|this product is sustainable|this product contains no artificial ingredients|this product is natural|this product is pure and clean|this product is healthy,ok
+19646005348,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+26396908256,0.625,5,this product is healthy|this product is natural|this product is environmentally friendly|this product is sustainable|this product is organic,ok
+32601025526,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is natural,ok
+23254111155,0.125,1,this product is sustainable,ok
+11213515083,0.5,4,this product is environmentally friendly|this product is healthy|this product is sustainable|this product is pure and clean,ok
+17873705178,0.375,3,this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11535504765,0.0,0,,ok
+41303046210,0.0,0,,ok
+39059551034,0.0,0,,ok
+25293001060,0.875,7,this product is organic|this product is natural|this product is pure and clean|this product contains no artificial ingredients|this product is sustainable|this product is healthy|this product is environmentally friendly,ok
+21908632087,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product contains no artificial ingredients|this product is sustainable|this product is healthy|this product is pure and clean,ok
+24182021509,0.875,7,this product is natural|this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable|this product contains no artificial ingredients|this product is pure and clean,ok
+41000142130,0.0,0,,ok
+21908504018,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+30871004500,0.625,5,this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is natural,ok
+31493060653,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+30684016974,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+37272089013,0.625,5,this product is natural|this product is healthy|this product is sustainable|this product is environmentally friendly|this product is organic,ok
+15400191067,0.5,4,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy,ok
+27328910019,0.5,4,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable,ok
+15400190015,0.75,6,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is pure and clean,ok
+33776017712,0.5,4,this product is pure and clean|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+41268169429,0.875,7,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is environmentally friendly|this product is sustainable|this product is organic|this product is pure and clean,ok
+35826024732,0.875,7,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is pure and clean|this product is organic|this product is environmentally friendly|this product is sustainable,ok
+19646005065,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy,ok
+13562002603,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is healthy|this product is sustainable,ok
+39978038524,0.875,7,this product is natural|this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no artificial ingredients,ok
+26395780167,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is pure and clean|this product is healthy|this product is sustainable,ok
+41000008641,0.0,0,,ok
+14821195555,0.0,0,,ok
+25317323000,0.125,1,this product is environmentally friendly,ok
+20662005830,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+460938714,0.25,2,this product is sustainable|this product is natural,ok
+21908455594,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is healthy|this product is sustainable,ok
+36800046252,0.875,7,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+41303008256,0.5,4,this product is natural|this product is environmentally friendly|this product is sustainable|this product is organic,ok
+39217023021,0.5,4,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+36200223024,0.375,3,this product is organic|this product is environmentally friendly|this product is sustainable,ok
+25484000292,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is pure and clean|this product is sustainable,ok
+41000072390,0.0,0,,ok
+23933653242,0.375,3,this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+36800336070,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+41415086081,0.0,0,,ok
+20500017094,0.75,6,this product is pure and clean|this product is sustainable|this product is natural|this product is environmentally friendly|this product is organic|this product is healthy,ok
+24335304206,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+11535505809,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is pure and clean,ok
+23923202092,0.5,4,this product is organic|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+22506003873,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+22506677890,1.0,8,this product is natural|this product is organic|this product is environmentally friendly|this product is pure and clean|this product is healthy|this product contains no artificial ingredients|this product is sustainable|this product contains no preservatives,ok
+21908455525,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable,ok
+11150734769,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+30568115298,0.75,6,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean|this product is natural,ok
+36800012059,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is healthy|this product is pure and clean|this product is sustainable,ok
+41190460373,0.25,2,this product is natural|this product is environmentally friendly,ok
+18894123262,0.0,0,,ok
+31142526752,0.625,5,this product is natural|this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+36800418226,0.0,0,,ok
+31142001334,0.75,6,this product is natural|this product is pure and clean|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is organic,ok
+22655829263,0.0,0,,ok
+12000012730,0.0,0,,ok
+37600132831,0.625,5,this product is natural|this product is healthy|this product is environmentally friendly|this product contains no artificial ingredients|this product is organic,ok
+31506330278,0.125,1,this product is environmentally friendly,ok
+13562000869,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+11194365349,0.0,0,,ok
+41497094639,0.0,0,,ok
+35844145754,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+12511211356,1.0,8,this product is natural|this product is organic|this product is pure and clean|this product is environmentally friendly|this product is sustainable|this product contains no artificial ingredients|this product is healthy|this product contains no preservatives,ok
+21130048892,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is pure and clean|this product is environmentally friendly|this product is sustainable,ok
+19646005461,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is pure and clean|this product is natural|this product is sustainable|this product is organic|this product is healthy|this product contains no preservatives,ok
+32601089337,0.5,4,this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+13562491612,0.75,6,this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is natural|this product is pure and clean,ok
+41220908851,0.5,4,this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy,ok
+23923206038,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11150001076,0.0,0,,ok
+27568060871,0.0,0,,ok
+41420411229,0.375,3,this product is organic|this product is sustainable|this product is environmentally friendly,ok
+41196138634,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+39047001312,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+34000722099,0.0,0,,ok
+41415377431,0.625,5,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy,ok
+11150180535,0.25,2,this product is natural|this product is environmentally friendly,ok
+31493082006,0.5,4,this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy,ok
+20735112427,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is healthy|this product is pure and clean|this product is natural|this product is sustainable|this product is organic|this product contains no preservatives,ok
+13562300129,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is natural,ok
+22506165052,0.75,6,this product is organic|this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is environmentally friendly|this product is pure and clean,ok
+19063012769,0.0,0,,ok
+25293003637,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+32601901868,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is pure and clean,ok
+15400196314,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+41000119767,0.0,0,,ok
+36800087040,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+36800177413,0.75,6,this product is natural|this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean,ok
+31493060578,0.625,5,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy|this product is natural,ok
+12993112035,0.875,7,this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy,ok
+41220021819,0.875,7,this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is natural|this product is pure and clean,ok
+30684700880,0.0,0,,ok
+41318210576,0.0,0,,ok
+36800056091,0.875,7,this product is natural|this product is organic|this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean|this product is healthy,ok
+11150021050,0.75,6,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is pure and clean|this product is healthy,ok
+11213031705,0.25,2,this product is healthy|this product is environmentally friendly,ok
+41318171471,0.875,7,this product is natural|this product is organic|this product is pure and clean|this product contains no artificial ingredients|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+36800114302,0.75,6,this product is pure and clean|this product is natural|this product is healthy|this product is environmentally friendly|this product is organic|this product is sustainable,ok
+19063232334,0.0,0,,ok
+35826076410,0.875,7,this product is natural|this product is pure and clean|this product is sustainable|this product is healthy|this product is organic|this product contains no artificial ingredients|this product is environmentally friendly,ok
+36800389700,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+11150272513,0.875,7,this product is natural|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean|this product is environmentally friendly|this product is healthy|this product is organic,ok
+20735112021,1.0,8,this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product is pure and clean|this product is sustainable|this product is organic|this product contains no preservatives,ok
+41449450193,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+21718412169,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+41190008940,0.125,1,this product is natural,ok
+21985220238,0.5,4,this product is healthy|this product is sustainable|this product is environmentally friendly|this product is natural,ok
+35826058836,0.875,7,this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is organic|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+19521550079,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean|this product is healthy,ok
+39047017689,0.0,0,,ok
+23547400218,0.75,6,this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is environmentally friendly|this product is pure and clean,ok
+20700411005,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+30223004233,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is natural|this product is healthy,ok
+12993112028,1.0,8,this product contains no artificial ingredients|this product is natural|this product is pure and clean|this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+41318290431,0.625,5,this product is natural|this product is pure and clean|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+41190576098,0.625,5,this product is healthy|this product is sustainable|this product is natural|this product is environmentally friendly|this product is pure and clean,ok
+41253001857,0.75,6,this product is organic|this product contains no artificial ingredients|this product is natural|this product is environmentally friendly|this product is pure and clean|this product is sustainable,ok
+25317006958,0.5,4,this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is organic,ok
+11110503329,1.0,8,this product is natural|this product is pure and clean|this product is organic|this product contains no artificial ingredients|this product is sustainable|this product is environmentally friendly|this product is healthy|this product contains no preservatives,ok
+41190459544,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+24335162264,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product is pure and clean|this product is healthy|this product is sustainable|this product contains no artificial ingredients,ok
+34856881230,0.125,1,this product is environmentally friendly,ok
+39045192029,0.0,0,,ok
+20662000217,0.5,4,this product is natural|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+11110849397,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is healthy|this product is sustainable,ok
+11150511186,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+12005000589,0.625,5,this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product is pure and clean,ok
+41220021826,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+36800079427,0.5,4,this product is organic|this product is sustainable|this product is healthy|this product is environmentally friendly,ok
+34500140089,0.0,0,,ok
+41497099672,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+20601409354,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+41188048132,0.0,0,,ok
+20487007200,0.75,6,this product is natural|this product is environmentally friendly|this product is organic|this product is healthy|this product is sustainable|this product is pure and clean,ok
+290906,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+32251055461,0.0,0,,ok
+36800151246,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+17600083067,0.625,5,this product is natural|this product is healthy|this product is organic|this product is pure and clean|this product is environmentally friendly,ok
+13087218220,0.0,0,,ok
+41318021356,0.125,1,this product is environmentally friendly,ok
+33900000276,0.75,6,this product is natural|this product is healthy|this product is organic|this product is environmentally friendly|this product is pure and clean|this product is sustainable,ok
+11150094467,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+36800378445,0.375,3,this product is natural|this product is environmentally friendly|this product is sustainable,ok
+23254665184,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is pure and clean|this product is healthy|this product is sustainable,ok
+19646003856,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+20526012608,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+41000531729,0.0,0,,ok
+33776100803,0.625,5,this product is natural|this product is environmentally friendly|this product is healthy|this product contains no artificial ingredients|this product is sustainable,ok
+21908501406,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy,ok
+21130043972,0.875,7,this product is natural|this product is organic|this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is pure and clean,ok
+39047018167,0.75,6,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is sustainable|this product is pure and clean|this product is environmentally friendly,ok
+30223008903,0.25,2,this product is healthy|this product is environmentally friendly,ok
+21130048816,0.25,2,this product is natural|this product is sustainable,ok
+11150500517,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is organic|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy|this product contains no preservatives,ok
+37983001007,0.375,3,this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+13609020447,0.5,4,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy,ok
+11150982375,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is healthy|this product is sustainable|this product is pure and clean,ok
+41000022517,0.0,0,,ok
+11213022505,0.0,0,,ok
+41250642893,0.5,4,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable,ok
+15400190022,0.875,7,this product is environmentally friendly|this product is organic|this product is healthy|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean|this product is natural,ok
+16291442559,1.0,8,this product contains no artificial ingredients|this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no preservatives,ok
+23923330030,0.75,6,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is pure and clean|this product is sustainable,ok
+36800422667,0.75,6,this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is environmentally friendly|this product is pure and clean,ok
+15400871495,0.375,3,this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+11110415646,0.125,1,this product is sustainable,ok
+24000507918,0.75,6,this product is natural|this product is organic|this product contains no artificial ingredients|this product is healthy|this product is sustainable|this product is environmentally friendly,ok
+41220973569,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+36800403161,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+23204357466,0.25,2,this product is natural|this product is healthy,ok
+11110711007,0.0,0,,ok
+36800283558,0.5,4,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+39153414853,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+15532101156,1.0,8,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is pure and clean|this product contains no artificial ingredients|this product is sustainable|this product contains no preservatives,ok
+20601408425,0.875,7,this product is environmentally friendly|this product is sustainable|this product is natural|this product is organic|this product is pure and clean|this product is healthy|this product contains no artificial ingredients,ok
+23923330641,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+36800379428,0.5,4,this product is organic|this product is sustainable|this product is natural|this product is environmentally friendly,ok
+11150895828,0.5,4,this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+11150949989,0.375,3,this product is natural|this product is pure and clean|this product is healthy,ok
+12000029110,0.0,0,,ok
+41390061400,0.75,6,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is natural|this product is pure and clean,ok
+11110790040,1.0,8,this product contains no artificial ingredients|this product is natural|this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no preservatives,ok
+11686,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+28189121415,0.75,6,this product is organic|this product is environmentally friendly|this product is sustainable|this product is pure and clean|this product is natural|this product is healthy,ok
+23923206731,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is pure and clean,ok
+19646001067,0.875,7,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is pure and clean,ok
+37600105064,0.75,6,this product is natural|this product is environmentally friendly|this product is pure and clean|this product is healthy|this product is organic|this product is sustainable,ok
+11213385389,0.25,2,this product is natural|this product is sustainable,ok
+41000270512,0.0,0,,ok
+41116001109,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+24182021677,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+21908439686,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11535504895,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+37323119072,0.625,5,this product is organic|this product is sustainable|this product is natural|this product is environmentally friendly|this product is healthy,ok
+41268194186,0.5,4,this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+39217023069,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+26395763016,0.75,6,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean,ok
+11150511223,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+36800056114,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+16291442450,1.0,8,this product contains no artificial ingredients|this product is natural|this product is organic|this product is environmentally friendly|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+37600516792,0.25,2,this product is natural|this product is environmentally friendly,ok
+30034056063,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+21130076741,0.875,7,this product contains no artificial ingredients|this product is pure and clean|this product is natural|this product is sustainable|this product is environmentally friendly|this product contains no preservatives|this product is organic,ok
+36800097148,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product contains no artificial ingredients,ok
+35826064431,0.125,1,this product is healthy,ok
+11150544917,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product is pure and clean,ok
+21724602295,0.25,2,this product is natural|this product is environmentally friendly,ok
+41220846566,0.375,3,this product is natural|this product is sustainable|this product is organic,ok
+41318190540,0.875,7,this product is natural|this product is pure and clean|this product is organic|this product is healthy|this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable,ok
+36800403475,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable,ok
+20526012967,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is pure and clean|this product is healthy|this product is sustainable,ok
+24126016691,0.125,1,this product is healthy,ok
+20662005779,0.625,5,this product is healthy|this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural,ok
+21600103687,0.0,0,,ok
+12000017117,0.0,0,,ok
+36800426771,1.0,8,this product is environmentally friendly|this product is pure and clean|this product is sustainable|this product is healthy|this product is natural|this product is organic|this product contains no artificial ingredients|this product contains no preservatives,ok
+23923900011,0.25,2,this product is organic|this product is environmentally friendly,ok
+23991000149,1.0,8,this product is pure and clean|this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product is organic|this product is sustainable|this product contains no preservatives,ok
+13609020492,0.5,4,this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+32601025465,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+36800132009,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+13000570107,0.0,0,,ok
+35826090058,0.375,3,this product is natural|this product is sustainable|this product is environmentally friendly,ok
+36800422643,0.375,3,this product is organic|this product is environmentally friendly|this product is sustainable,ok
+37842041540,0.5,4,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable,ok
+36800107946,0.875,7,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients,ok
+30684017919,0.0,0,,ok
+21908965161,1.0,8,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is natural|this product is healthy|this product is pure and clean|this product is sustainable|this product contains no preservatives,ok
+23923330023,1.0,8,this product contains no artificial ingredients|this product is environmentally friendly|this product is pure and clean|this product is healthy|this product is organic|this product is natural|this product is sustainable|this product contains no preservatives,ok
+21718412787,0.75,6,this product contains no artificial ingredients|this product is natural|this product is organic|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+41268132065,0.0,0,,ok
+11150982856,0.25,2,this product is organic|this product is environmentally friendly,ok
+11110586452,0.625,5,this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable|this product is organic,ok
+11150982580,1.0,8,this product is environmentally friendly|this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is sustainable|this product is pure and clean|this product contains no preservatives,ok
+41000022531,0.0,0,,ok
+37600735803,0.75,6,this product contains no preservatives|this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+39978003416,1.0,8,this product is organic|this product is natural|this product is environmentally friendly|this product contains no artificial ingredients|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+41483035936,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+24182000887,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product is pure and clean,ok
+25317006941,0.5,4,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+41318210453,0.75,6,this product is natural|this product is environmentally friendly|this product is organic|this product is pure and clean|this product is healthy|this product is sustainable,ok
+39400017318,0.625,5,this product is organic|this product is natural|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+39494111947,0.25,2,this product is natural|this product is organic,ok
+13562300693,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+41224723108,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is pure and clean,ok
+32601902902,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy,ok
+16291442726,1.0,8,this product is environmentally friendly|this product is natural|this product is organic|this product contains no artificial ingredients|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+15400196222,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+11835259457,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is pure and clean|this product is healthy|this product contains no artificial ingredients,ok
+22852417034,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+13562492886,0.75,6,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable|this product is pure and clean,ok
+41000731488,0.0,0,,ok
+41449403267,0.0,0,,ok
+14321621059,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is pure and clean,ok
+29737007397,0.25,2,this product is environmentally friendly|this product is healthy,ok
+36800043930,0.375,3,this product is natural|this product is sustainable|this product is environmentally friendly,ok
+22099055679,1.0,8,this product is environmentally friendly|this product is natural|this product is pure and clean|this product contains no artificial ingredients|this product is healthy|this product is sustainable|this product is organic|this product contains no preservatives,ok
+37600255707,0.875,7,this product is healthy|this product is natural|this product is environmentally friendly|this product is organic|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients,ok
+12000616204,0.0,0,,ok
+41331049900,0.0,0,,ok
+22506131057,0.75,6,this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is environmentally friendly|this product is pure and clean|this product is organic,ok
+31493061452,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+38584,0.875,7,this product is natural|this product is organic|this product is environmentally friendly|this product is healthy|this product is sustainable|this product contains no artificial ingredients|this product is pure and clean,ok
+27958211012,0.375,3,this product is pure and clean|this product is environmentally friendly|this product is sustainable,ok
+32601951139,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+32601902872,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no artificial ingredients,ok
+41415107083,0.625,5,this product is environmentally friendly|this product is organic|this product is sustainable|this product is healthy|this product is natural,ok
+20526012196,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is pure and clean|this product is healthy,ok
+32251225710,0.0,0,,ok
+38794994403,0.25,2,this product is healthy|this product is natural,ok
+2983542515,0.875,7,this product is pure and clean|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is environmentally friendly|this product is natural|this product contains no preservatives,ok
+41497096237,1.0,8,this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is organic|this product is sustainable|this product is healthy|this product contains no preservatives|this product is environmentally friendly,ok
+11535505663,0.875,7,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is sustainable|this product is natural|this product is pure and clean|this product is healthy,ok
+20662005854,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+16571952105,0.0,0,,ok
+25583004115,0.0,0,,ok
+36800405479,0.125,1,this product is environmentally friendly,ok
+13764027084,0.5,4,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy,ok
+11150950374,0.375,3,this product is natural|this product is healthy|this product is environmentally friendly,ok
+12000012792,0.0,0,,ok
+23923400542,0.75,6,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+11110786715,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is sustainable|this product is pure and clean|this product is environmentally friendly,ok
+30223006329,0.875,7,this product is environmentally friendly|this product is sustainable|this product is natural|this product is organic|this product is healthy|this product contains no artificial ingredients|this product is pure and clean,ok
+25317005890,0.5,4,this product contains no artificial ingredients|this product is pure and clean|this product is natural|this product contains no preservatives,ok
+36800164499,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11111119031,0.875,7,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+34700012193,1.0,8,this product contains no artificial ingredients|this product is healthy|this product is natural|this product is environmentally friendly|this product is pure and clean|this product is organic|this product is sustainable|this product contains no preservatives,ok
+21908450131,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11150982610,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy,ok
+375313,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product is pure and clean|this product is healthy|this product is sustainable|this product contains no artificial ingredients,ok
+25400058970,0.5,4,this product is natural|this product is environmentally friendly|this product is sustainable|this product contains no artificial ingredients,ok
+24126013249,0.0,0,,ok
+41303014165,0.625,5,this product is natural|this product is organic|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+31200039439,0.125,1,this product is environmentally friendly,ok
+22506421370,0.75,6,this product is organic|this product is natural|this product contains no artificial ingredients|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+41220021857,0.875,7,this product is environmentally friendly|this product is organic|this product contains no artificial ingredients|this product is natural|this product is pure and clean|this product is sustainable|this product is healthy,ok
+32601900526,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is natural,ok
+23923206571,0.25,2,this product is environmentally friendly|this product is healthy,ok
+22506002487,0.75,6,this product is organic|this product is natural|this product contains no artificial ingredients|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+39631000417,1.0,8,this product contains no preservatives|this product contains no artificial ingredients|this product is organic|this product is pure and clean|this product is natural|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+24182111514,0.875,7,this product is environmentally friendly|this product is organic|this product is natural|this product contains no artificial ingredients|this product is sustainable|this product is pure and clean|this product is healthy,ok
+13764027602,0.75,6,this product is organic|this product is sustainable|this product is environmentally friendly|this product is natural|this product is healthy|this product is pure and clean,ok
+21908407739,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+32601902674,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+15532100968,0.875,7,this product is sustainable|this product is environmentally friendly|this product is organic|this product is natural|this product contains no artificial ingredients|this product is healthy|this product is pure and clean,ok
+23923100442,0.5,4,this product is organic|this product is environmentally friendly|this product is healthy|this product is natural,ok
+41000022661,0.0,0,,ok
+12000024542,0.0,0,,ok
+35826087522,0.0,0,,ok
+24182002225,0.625,5,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy,ok
+20662005809,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+25293600737,0.875,7,this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is environmentally friendly|this product is pure and clean|this product contains no artificial ingredients,ok
+22014640201,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is pure and clean|this product is sustainable|this product is organic|this product is natural|this product is healthy|this product contains no preservatives,ok
+25400564037,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is pure and clean|this product is healthy|this product is environmentally friendly|this product is sustainable,ok
+15400118156,0.875,7,this product is organic|this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable|this product is natural|this product is pure and clean|this product is healthy,ok
+36800422841,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+21908455518,1.0,8,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product contains no artificial ingredients|this product is pure and clean|this product contains no preservatives,ok
+32601902810,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+11110612380,0.0,0,,ok
+11213384306,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is environmentally friendly|this product is pure and clean|this product is sustainable,ok
+23923900028,0.25,2,this product is organic|this product is healthy,ok
+16291442368,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is natural|this product is organic|this product is sustainable|this product is pure and clean|this product is healthy|this product contains no preservatives,ok
+16291442566,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is natural|this product is organic|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+24000551171,0.125,1,this product is natural,ok
+41190459520,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is healthy|this product is sustainable|this product is pure and clean,ok
+11150982924,0.5,4,this product is environmentally friendly|this product is healthy|this product is organic|this product is sustainable,ok
+37014000245,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+34538857652,0.625,5,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy,ok
+15400108065,0.875,7,this product is natural|this product is organic|this product contains no artificial ingredients|this product is environmentally friendly|this product is healthy|this product is pure and clean|this product is sustainable,ok
+41000072383,0.0,0,,ok
+41000022982,0.0,0,,ok
+11150110518,0.5,4,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy,ok
+11213515236,0.125,1,this product is environmentally friendly,ok
+41220974917,0.125,1,this product is environmentally friendly,ok
+36800426528,0.5,4,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable,ok
+11150982719,0.625,5,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy,ok
+25317005500,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is natural,ok
+39047001060,0.75,6,this product is natural|this product is pure and clean|this product is healthy|this product contains no artificial ingredients|this product is sustainable|this product is organic,ok
+409780,0.0,0,,ok
+13562001262,0.625,5,this product is organic|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+176828,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+41387005011,0.5,4,this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean,ok
+11213024790,0.75,6,this product is natural|this product is pure and clean|this product contains no artificial ingredients|this product is healthy|this product is sustainable|this product is environmentally friendly,ok
+11110868701,0.875,7,this product is environmentally friendly|this product is healthy|this product is natural|this product is pure and clean|this product is organic|this product contains no artificial ingredients|this product is sustainable,ok
+34500641296,0.75,6,this product is natural|this product is environmentally friendly|this product is pure and clean|this product is healthy|this product is organic|this product is sustainable,ok
+41220906710,0.5,4,this product is natural|this product is environmentally friendly|this product is sustainable|this product is organic,ok
+41116101106,0.25,2,this product is environmentally friendly|this product is sustainable,ok
+16571910372,0.0,0,,ok
+13971000214,1.0,8,this product is environmentally friendly|this product is natural|this product contains no artificial ingredients|this product is organic|this product is sustainable|this product is healthy|this product is pure and clean|this product contains no preservatives,ok
+20601407732,0.75,6,this product is environmentally friendly|this product is organic|this product is sustainable|this product is natural|this product is healthy|this product is pure and clean,ok
+41000054136,0.0,0,,ok
+41000119217,0.0,0,,ok
+41268166756,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is environmentally friendly|this product is pure and clean|this product is sustainable,ok
+15400191586,0.75,6,this product is organic|this product is environmentally friendly|this product is sustainable|this product is healthy|this product is pure and clean|this product is natural,ok
+13764027169,0.625,5,this product is organic|this product is environmentally friendly|this product is natural|this product is sustainable|this product is healthy,ok
+41000346491,0.0,0,,ok
+22506002401,1.0,8,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product contains no artificial ingredients|this product is pure and clean|this product contains no preservatives,ok
+36800049802,1.0,8,this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy|this product is pure and clean|this product is organic|this product contains no artificial ingredients|this product contains no preservatives,ok
+20601407763,0.625,5,this product is natural|this product is healthy|this product is pure and clean|this product is environmentally friendly|this product is sustainable,ok
+11150982443,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is sustainable|this product is healthy|this product is pure and clean,ok
+23923200135,0.75,6,this product is environmentally friendly|this product is organic|this product is natural|this product is sustainable|this product is healthy|this product is pure and clean,ok
+24000507857,0.125,1,this product is natural,ok
+41420212949,0.5,4,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy,ok
+35826541437,0.875,7,this product is natural|this product contains no artificial ingredients|this product is healthy|this product is pure and clean|this product is environmentally friendly|this product is sustainable|this product is organic,ok
+41497096282,0.875,7,this product is natural|this product contains no artificial ingredients|this product is pure and clean|this product is organic|this product is sustainable|this product is healthy|this product is environmentally friendly,ok
+41268141753,0.375,3,this product is natural|this product is environmentally friendly|this product is healthy,ok
+11384016365,0.5,4,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy,ok
+41271004977,0.0,0,,ok
+30034096229,1.0,8,this product contains no artificial ingredients|this product is environmentally friendly|this product is natural|this product is organic|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+38119,1.0,8,this product is organic|this product is environmentally friendly|this product is natural|this product is pure and clean|this product contains no artificial ingredients|this product is sustainable|this product is healthy|this product contains no preservatives,ok
+15400196369,0.625,5,this product is organic|this product is environmentally friendly|this product is sustainable|this product is natural|this product is healthy,ok
+32601900458,0.625,5,this product is organic|this product is sustainable|this product is environmentally friendly|this product is healthy|this product is natural,ok
+36800137134,0.75,6,this product is environmentally friendly|this product is natural|this product is organic|this product is healthy|this product is sustainable|this product is pure and clean,ok
+11110854131,0.0,0,,ok
+37600455305,0.625,5,this product is natural|this product is healthy|this product is environmentally friendly|this product is sustainable|this product is organic,ok
+28744600041,0.875,7,this product contains no artificial ingredients|this product is natural|this product is environmentally friendly|this product is healthy|this product is organic|this product is sustainable|this product contains no preservatives,ok
+41220987269,0.5,4,this product is environmentally friendly|this product is sustainable|this product is organic|this product is healthy,ok
+36800383142,1.0,8,this product is environmentally friendly|this product is pure and clean|this product is sustainable|this product is healthy|this product is natural|this product is organic|this product contains no artificial ingredients|this product contains no preservatives,ok
+41250884767,0.875,7,this product is pure and clean|this product contains no artificial ingredients|this product is healthy|this product is natural|this product is sustainable|this product is environmentally friendly|this product contains no preservatives,ok
+26395783168,0.75,6,this product is organic|this product is pure and clean|this product is natural|this product is environmentally friendly|this product is healthy|this product is sustainable,ok
+19646005430,1.0,8,this product is environmentally friendly|this product contains no artificial ingredients|this product is sustainable|this product is natural|this product is healthy|this product is pure and clean|this product is organic|this product contains no preservatives,ok
+11110913425,0.25,2,this product is sustainable|this product is environmentally friendly,ok
+12511891671,0.375,3,this product is organic|this product is sustainable|this product is environmentally friendly,ok
+16741431119,0.0,0,,ok
+21130048922,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is pure and clean|this product is sustainable|this product is environmentally friendly,ok
+17869777257,0.0,0,,ok
+36800332553,0.875,7,this product is environmentally friendly|this product is organic|this product is healthy|this product is natural|this product is sustainable|this product is pure and clean|this product contains no artificial ingredients,ok
+41268166718,0.875,7,this product is natural|this product contains no artificial ingredients|this product is organic|this product is healthy|this product is environmentally friendly|this product is pure and clean|this product is sustainable,ok
+24182000702,0.875,7,this product is environmentally friendly|this product is natural|this product is organic|this product is pure and clean|this product is sustainable|this product is healthy|this product contains no artificial ingredients,ok
